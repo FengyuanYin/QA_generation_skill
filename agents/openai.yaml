@@ -1,0 +1,4 @@
+interface:
+  display_name: "RAG Evaluation Dataset Generator"
+  short_description: "Build metric-ready QA datasets from PDFs"
+  default_prompt: "Use $generate-rag-evaluation-dataset to create a high-value RAG evaluation dataset from these PDFs."
